@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+img{
+  width: 60%;
+  height: 400px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
